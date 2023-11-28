@@ -1,0 +1,23 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #ccc;
+}
+
+.data-card h2{
+  text-align: center;
+}
+
+.data-card {
+  background-color: #fff;
+  border: 3px solid #000;
+  border-radius: 3px;
+  padding: 20px;
+  margin: 30vh auto;
+  width: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+  text-align: justify;
+}
+
+
